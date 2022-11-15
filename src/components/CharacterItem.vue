@@ -25,8 +25,8 @@ export default {
 <style lang="scss" scoped>
 .character {
     img {
-       max-height: 40vh;
-       max-width: 100%;
+       height: 200px;
+       width: 140px;
     
     }
     background-color: #2e3a46;
@@ -34,6 +34,10 @@ export default {
     p {
         margin-top: -12px;
     }
+}
+
+.character{
+    height: 380px;
 }
 
 

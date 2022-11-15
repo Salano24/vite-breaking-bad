@@ -7,10 +7,6 @@ export default {
 </script>
 <template>
     <main>
-        <div class="category my-5 container">
-            <div class="btn btn-light "> Select category <i class="fa-solid fa-chevron-down"></i></div>
-        </div>
-
 
         <section class="charaters my-3">
 

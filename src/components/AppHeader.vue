@@ -6,7 +6,7 @@ export default {
 <template>
    <div class="d-flex">
     <img src="https://pluspng.com/img-png/breaking-bad-png-episodes-335.png" alt="">
-    <h1>Breaking Bad Api </h1>
+    <h1>Breaking Bad Api</h1>
    </div>
 </template>
 
